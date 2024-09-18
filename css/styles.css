@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f5a2f5;
+    background-color: black;
+    color: rgb(35, 191, 35);
   }
 
   .container {
@@ -13,13 +14,13 @@ body {
   }
 
   h2 {
-    color: #6a0572;
+    color: rgb(35, 191, 35);
     text-align: center;
     font-size: 60px;
   }
 
   label {
-    color: #6a0572;
+    color: rgb(35, 191, 35);
     font-weight: bold;
   }
 
@@ -33,7 +34,7 @@ body {
   }
 
   button {
-    background-color: #6a0572;
+    background-color: rgb(35, 191, 35);
     color: white;
     border: none;
     border-radius: 5px;
@@ -45,10 +46,10 @@ body {
   }
 
   button:hover {
-    background-color: #4c0355;
+    background-color: reen;
   }
 
   #result {
     font-weight: bold;
-    color: #6a0572;
+    color: rgb(35, 191, 35);
   }
